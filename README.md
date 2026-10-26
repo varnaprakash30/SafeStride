@@ -1,4 +1,4 @@
-# dog_app
+# SafeStride
 
 A new Flutter project.
 
